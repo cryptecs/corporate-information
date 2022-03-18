@@ -18,7 +18,7 @@ Dr. Markus Heyn, Rolf Najork
 
 CRYPTECS Maintainers \
 Email:
-[rng_cr_cryptecs@bosch.com](mailto:rng_cr_cryptecs@bosch.com)) \
+[cryptecs-oss@googlegroups.com](mailto:cryptecs-oss@googlegroups.com) \
 Phone:
 +49(711)811-0
 
